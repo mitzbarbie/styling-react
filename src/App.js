@@ -6,7 +6,6 @@ class App extends Component {
     return (
       <div>
         <SassComponent />
-        hallo this is test
       </div>
     );
   }
